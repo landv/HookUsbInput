@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|d:\\jd\\20240627\\c#hookusb\u626B\u7801\u8F93\u5165\\hookusbinput\\hookusbinput\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\editinputhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:editinputhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\inputhook.cs||{6BF3EA12-98BB-41E2-BA01-8662F713D293}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:inputhook.cs||{6BF3EA12-98BB-41E2-BA01-8662F713D293}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\editinputhook.cs||{6BF3EA12-98BB-41E2-BA01-8662F713D293}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:editinputhook.cs||{6BF3EA12-98BB-41E2-BA01-8662F713D293}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\inputhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:inputhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EE5BB790-C27B-470E-97E4-7240FC66EC48}|HookUsbInput.csproj|solutionrelative:config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputHook.cs",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\InputHook.cs",
+              "RelativeDocumentMoniker": "InputHook.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\InputHook.cs",
+              "RelativeToolTip": "InputHook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:16:19.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAL0BAAAAAAAAAAAcwNIBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:20:10.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:07:54.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "config.xml",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\config.xml",
+              "RelativeDocumentMoniker": "config.xml",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\config.xml",
+              "RelativeToolTip": "config.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-29T13:31:13.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditInputHook.cs",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\EditInputHook.cs",
+              "RelativeDocumentMoniker": "EditInputHook.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\EditInputHook.cs",
+              "RelativeToolTip": "EditInputHook.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAqwD0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:12:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputHook.cs",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\InputHook.cs",
+              "RelativeDocumentMoniker": "InputHook.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\InputHook.cs",
+              "RelativeToolTip": "InputHook.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwv7wAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:16:02.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditInputHook.cs",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\EditInputHook.cs",
+              "RelativeDocumentMoniker": "EditInputHook.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\EditInputHook.cs",
+              "RelativeToolTip": "EditInputHook.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAiwNYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:24:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\JD\\20240627\\C#HOOKusb\u626B\u7801\u8F93\u5165\\HookUsbInput\\HookUsbInput\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAD4v2wAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:13:28.872Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

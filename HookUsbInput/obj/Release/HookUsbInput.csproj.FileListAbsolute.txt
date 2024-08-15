@@ -1,0 +1,12 @@
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\bin\Release\HookUsbInput.exe
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\bin\Release\HookUsbInput.pdb
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.csproj.AssemblyReference.cache
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.Form1.resources
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.Form2.resources
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.Properties.Resources.resources
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.csproj.GenerateResource.cache
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.csproj.CoreCompileInputs.cache
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.exe
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\obj\Release\HookUsbInput.pdb
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\bin\Release\config.xml
+D:\JD\20240627\C#HOOKusb扫码输入\HookUsbInput\HookUsbInput\bin\Release\HookUsbInput.exe.config
